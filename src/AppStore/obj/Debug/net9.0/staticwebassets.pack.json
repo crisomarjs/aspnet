@@ -1,0 +1,65 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\Upload\\catedral.png",
+      "PackagePath": "staticwebassets\\Upload\\catedral.png"
+    },
+    {
+      "Id": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\Upload\\cien.jpg",
+      "PackagePath": "staticwebassets\\Upload\\cien.jpg"
+    },
+    {
+      "Id": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\Upload\\congo.jpg",
+      "PackagePath": "staticwebassets\\Upload\\congo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\Upload\\guerra.jpg",
+      "PackagePath": "staticwebassets\\Upload\\guerra.jpg"
+    },
+    {
+      "Id": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\Upload\\harry.jpg",
+      "PackagePath": "staticwebassets\\Upload\\harry.jpg"
+    },
+    {
+      "Id": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\Upload\\lazarillo.jpg",
+      "PackagePath": "staticwebassets\\Upload\\lazarillo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\Upload\\quijote.jpg",
+      "PackagePath": "staticwebassets\\Upload\\quijote.jpg"
+    },
+    {
+      "Id": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\Upload\\viajera.jpg",
+      "PackagePath": "staticwebassets\\Upload\\viajera.jpg"
+    },
+    {
+      "Id": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\css\\forms.css",
+      "PackagePath": "staticwebassets\\css\\forms.css"
+    },
+    {
+      "Id": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.AppStore.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.AppStore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.AppStore.props",
+      "PackagePath": "build\\AppStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.AppStore.props",
+      "PackagePath": "buildMultiTargeting\\AppStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.AppStore.props",
+      "PackagePath": "buildTransitive\\AppStore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,1526 @@
+{
+  "Version": 1,
+  "Hash": "a8kWjThb+kJ65H67Yl7pw9s5v0809d3ouFm6TYPrupw=",
+  "Source": "AppStore",
+  "BasePath": "_content/AppStore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AppStore\\wwwroot",
+      "Source": "AppStore",
+      "ContentRoot": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\",
+      "BasePath": "_content/AppStore",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\obj\\Debug\\net9.0\\compressed\\8cbaoh9ks4-74wg1c8ws3.gz",
+      "SourceId": "AppStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/AppStore",
+      "RelativePath": "css/style#[.{fingerprint=74wg1c8ws3}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\css\\style.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "va40ge4raj",
+      "Integrity": "OeIdBW5/e+rxHgeJEJXpiQ185D5CviL9yRNuNUWt0ww=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\css\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\obj\\Debug\\net9.0\\compressed\\wio8f2g8rw-hb2h69dw86.gz",
+      "SourceId": "AppStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/AppStore",
+      "RelativePath": "css/forms#[.{fingerprint=hb2h69dw86}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\css\\forms.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "kkq1af9rf1",
+      "Integrity": "xHIMPs12vSFa+mxwJUW2Eij3hrjZNlScripcXlKim44=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\css\\forms.css"
+    },
+    {
+      "Identity": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\css\\forms.css",
+      "SourceId": "AppStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\",
+      "BasePath": "_content/AppStore",
+      "RelativePath": "css/forms#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hb2h69dw86",
+      "Integrity": "A4AOSwvRYkTpgpf9xf0ga88aF/vlPVgSjUog2Lh0kRo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\forms.css"
+    },
+    {
+      "Identity": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\css\\style.css",
+      "SourceId": "AppStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\",
+      "BasePath": "_content/AppStore",
+      "RelativePath": "css/style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "74wg1c8ws3",
+      "Integrity": "l9dtM5v8cSQ4pMXdwB/WgQa8xBGKO9rhzxRcdAMbeNk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\Upload\\catedral.png",
+      "SourceId": "AppStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\",
+      "BasePath": "_content/AppStore",
+      "RelativePath": "Upload/catedral#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hwya7ynymm",
+      "Integrity": "Me6xLQ2XAq83YQiaRFE1PC82wsQ9QIqrEj0G1ZMQs7A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Upload\\catedral.png"
+    },
+    {
+      "Identity": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\Upload\\cien.jpg",
+      "SourceId": "AppStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\",
+      "BasePath": "_content/AppStore",
+      "RelativePath": "Upload/cien#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bqepgnwjx9",
+      "Integrity": "06LWlFDElZFNWSyHfCKz2QBk1CCaLIWqMm4xmx1zFEk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Upload\\cien.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\Upload\\congo.jpg",
+      "SourceId": "AppStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\",
+      "BasePath": "_content/AppStore",
+      "RelativePath": "Upload/congo#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dhsaz3j041",
+      "Integrity": "sc3uak/Hgs9Yi94yHGoxbEETvEwjaKMTS0diV+Es3h0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Upload\\congo.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\Upload\\guerra.jpg",
+      "SourceId": "AppStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\",
+      "BasePath": "_content/AppStore",
+      "RelativePath": "Upload/guerra#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "a4s83hopla",
+      "Integrity": "pjg9/GlPvtLndt5Og1JMEOk+teMy0YPvYSrJvW/1eD0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Upload\\guerra.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\Upload\\harry.jpg",
+      "SourceId": "AppStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\",
+      "BasePath": "_content/AppStore",
+      "RelativePath": "Upload/harry#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "km6o4zse8u",
+      "Integrity": "jGcpdE0hgbweo1z8tRb9Cv1uf5D85YeVaYFlFW0IJe8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Upload\\harry.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\Upload\\lazarillo.jpg",
+      "SourceId": "AppStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\",
+      "BasePath": "_content/AppStore",
+      "RelativePath": "Upload/lazarillo#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "m260e4m3f9",
+      "Integrity": "QmOlMVfRvUGFMB7ibEFtfIpg0Y13Oz6z6X6YRCXrhCA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Upload\\lazarillo.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\Upload\\quijote.jpg",
+      "SourceId": "AppStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\",
+      "BasePath": "_content/AppStore",
+      "RelativePath": "Upload/quijote#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "awt4wwra12",
+      "Integrity": "WkDqA77kdxoTUF00rmNWpC7NY8HsJIdXMZaR4Egntgo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Upload\\quijote.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\Upload\\viajera.jpg",
+      "SourceId": "AppStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\",
+      "BasePath": "_content/AppStore",
+      "RelativePath": "Upload/viajera#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1bur87cjkd",
+      "Integrity": "0ylppaBfS063vhGvh7YXp3SYOITs5tmax4uRA/aVrnE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Upload\\viajera.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/forms.css",
+      "AssetFile": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\obj\\Debug\\net9.0\\compressed\\wio8f2g8rw-hb2h69dw86.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001168224299"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "855"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xHIMPs12vSFa+mxwJUW2Eij3hrjZNlScripcXlKim44=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 01:28:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"A4AOSwvRYkTpgpf9xf0ga88aF/vlPVgSjUog2Lh0kRo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-A4AOSwvRYkTpgpf9xf0ga88aF/vlPVgSjUog2Lh0kRo="
+        }
+      ]
+    },
+    {
+      "Route": "css/forms.css",
+      "AssetFile": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\css\\forms.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2681"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A4AOSwvRYkTpgpf9xf0ga88aF/vlPVgSjUog2Lh0kRo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 01:28:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-A4AOSwvRYkTpgpf9xf0ga88aF/vlPVgSjUog2Lh0kRo="
+        }
+      ]
+    },
+    {
+      "Route": "css/forms.css.gz",
+      "AssetFile": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\obj\\Debug\\net9.0\\compressed\\wio8f2g8rw-hb2h69dw86.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "855"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xHIMPs12vSFa+mxwJUW2Eij3hrjZNlScripcXlKim44=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 01:28:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xHIMPs12vSFa+mxwJUW2Eij3hrjZNlScripcXlKim44="
+        }
+      ]
+    },
+    {
+      "Route": "css/forms.hb2h69dw86.css",
+      "AssetFile": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\obj\\Debug\\net9.0\\compressed\\wio8f2g8rw-hb2h69dw86.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001168224299"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "855"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xHIMPs12vSFa+mxwJUW2Eij3hrjZNlScripcXlKim44=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 01:28:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"A4AOSwvRYkTpgpf9xf0ga88aF/vlPVgSjUog2Lh0kRo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hb2h69dw86"
+        },
+        {
+          "Name": "label",
+          "Value": "css/forms.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-A4AOSwvRYkTpgpf9xf0ga88aF/vlPVgSjUog2Lh0kRo="
+        }
+      ]
+    },
+    {
+      "Route": "css/forms.hb2h69dw86.css",
+      "AssetFile": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\css\\forms.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2681"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A4AOSwvRYkTpgpf9xf0ga88aF/vlPVgSjUog2Lh0kRo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 01:28:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hb2h69dw86"
+        },
+        {
+          "Name": "label",
+          "Value": "css/forms.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-A4AOSwvRYkTpgpf9xf0ga88aF/vlPVgSjUog2Lh0kRo="
+        }
+      ]
+    },
+    {
+      "Route": "css/forms.hb2h69dw86.css.gz",
+      "AssetFile": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\obj\\Debug\\net9.0\\compressed\\wio8f2g8rw-hb2h69dw86.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "855"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xHIMPs12vSFa+mxwJUW2Eij3hrjZNlScripcXlKim44=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 01:28:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hb2h69dw86"
+        },
+        {
+          "Name": "label",
+          "Value": "css/forms.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xHIMPs12vSFa+mxwJUW2Eij3hrjZNlScripcXlKim44="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.74wg1c8ws3.css",
+      "AssetFile": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\obj\\Debug\\net9.0\\compressed\\8cbaoh9ks4-74wg1c8ws3.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000724637681"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1379"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OeIdBW5/e+rxHgeJEJXpiQ185D5CviL9yRNuNUWt0ww=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Mar 2025 23:34:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"l9dtM5v8cSQ4pMXdwB/WgQa8xBGKO9rhzxRcdAMbeNk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "74wg1c8ws3"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-l9dtM5v8cSQ4pMXdwB/WgQa8xBGKO9rhzxRcdAMbeNk="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.74wg1c8ws3.css",
+      "AssetFile": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4936"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l9dtM5v8cSQ4pMXdwB/WgQa8xBGKO9rhzxRcdAMbeNk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Mar 2025 23:34:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "74wg1c8ws3"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-l9dtM5v8cSQ4pMXdwB/WgQa8xBGKO9rhzxRcdAMbeNk="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.74wg1c8ws3.css.gz",
+      "AssetFile": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\obj\\Debug\\net9.0\\compressed\\8cbaoh9ks4-74wg1c8ws3.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1379"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OeIdBW5/e+rxHgeJEJXpiQ185D5CviL9yRNuNUWt0ww=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Mar 2025 23:34:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "74wg1c8ws3"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OeIdBW5/e+rxHgeJEJXpiQ185D5CviL9yRNuNUWt0ww="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css",
+      "AssetFile": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\obj\\Debug\\net9.0\\compressed\\8cbaoh9ks4-74wg1c8ws3.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000724637681"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1379"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OeIdBW5/e+rxHgeJEJXpiQ185D5CviL9yRNuNUWt0ww=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Mar 2025 23:34:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"l9dtM5v8cSQ4pMXdwB/WgQa8xBGKO9rhzxRcdAMbeNk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-l9dtM5v8cSQ4pMXdwB/WgQa8xBGKO9rhzxRcdAMbeNk="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css",
+      "AssetFile": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4936"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l9dtM5v8cSQ4pMXdwB/WgQa8xBGKO9rhzxRcdAMbeNk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Mar 2025 23:34:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-l9dtM5v8cSQ4pMXdwB/WgQa8xBGKO9rhzxRcdAMbeNk="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css.gz",
+      "AssetFile": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\obj\\Debug\\net9.0\\compressed\\8cbaoh9ks4-74wg1c8ws3.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1379"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OeIdBW5/e+rxHgeJEJXpiQ185D5CviL9yRNuNUWt0ww=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Mar 2025 23:34:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OeIdBW5/e+rxHgeJEJXpiQ185D5CviL9yRNuNUWt0ww="
+        }
+      ]
+    },
+    {
+      "Route": "Upload/catedral.hwya7ynymm.png",
+      "AssetFile": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\Upload\\catedral.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "312795"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Me6xLQ2XAq83YQiaRFE1PC82wsQ9QIqrEj0G1ZMQs7A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 18:13:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hwya7ynymm"
+        },
+        {
+          "Name": "label",
+          "Value": "Upload/catedral.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Me6xLQ2XAq83YQiaRFE1PC82wsQ9QIqrEj0G1ZMQs7A="
+        }
+      ]
+    },
+    {
+      "Route": "Upload/catedral.png",
+      "AssetFile": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\Upload\\catedral.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "312795"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Me6xLQ2XAq83YQiaRFE1PC82wsQ9QIqrEj0G1ZMQs7A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 18:13:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Me6xLQ2XAq83YQiaRFE1PC82wsQ9QIqrEj0G1ZMQs7A="
+        }
+      ]
+    },
+    {
+      "Route": "Upload/cien.bqepgnwjx9.jpg",
+      "AssetFile": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\Upload\\cien.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "82045"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"06LWlFDElZFNWSyHfCKz2QBk1CCaLIWqMm4xmx1zFEk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 18:13:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bqepgnwjx9"
+        },
+        {
+          "Name": "label",
+          "Value": "Upload/cien.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-06LWlFDElZFNWSyHfCKz2QBk1CCaLIWqMm4xmx1zFEk="
+        }
+      ]
+    },
+    {
+      "Route": "Upload/cien.jpg",
+      "AssetFile": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\Upload\\cien.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "82045"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"06LWlFDElZFNWSyHfCKz2QBk1CCaLIWqMm4xmx1zFEk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 18:13:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-06LWlFDElZFNWSyHfCKz2QBk1CCaLIWqMm4xmx1zFEk="
+        }
+      ]
+    },
+    {
+      "Route": "Upload/congo.dhsaz3j041.jpg",
+      "AssetFile": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\Upload\\congo.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "561588"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sc3uak/Hgs9Yi94yHGoxbEETvEwjaKMTS0diV+Es3h0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 18:13:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dhsaz3j041"
+        },
+        {
+          "Name": "label",
+          "Value": "Upload/congo.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sc3uak/Hgs9Yi94yHGoxbEETvEwjaKMTS0diV+Es3h0="
+        }
+      ]
+    },
+    {
+      "Route": "Upload/congo.jpg",
+      "AssetFile": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\Upload\\congo.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "561588"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sc3uak/Hgs9Yi94yHGoxbEETvEwjaKMTS0diV+Es3h0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 18:13:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sc3uak/Hgs9Yi94yHGoxbEETvEwjaKMTS0diV+Es3h0="
+        }
+      ]
+    },
+    {
+      "Route": "Upload/guerra.a4s83hopla.jpg",
+      "AssetFile": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\Upload\\guerra.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43774"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pjg9/GlPvtLndt5Og1JMEOk+teMy0YPvYSrJvW/1eD0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 18:13:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a4s83hopla"
+        },
+        {
+          "Name": "label",
+          "Value": "Upload/guerra.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pjg9/GlPvtLndt5Og1JMEOk+teMy0YPvYSrJvW/1eD0="
+        }
+      ]
+    },
+    {
+      "Route": "Upload/guerra.jpg",
+      "AssetFile": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\Upload\\guerra.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43774"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pjg9/GlPvtLndt5Og1JMEOk+teMy0YPvYSrJvW/1eD0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 18:13:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pjg9/GlPvtLndt5Og1JMEOk+teMy0YPvYSrJvW/1eD0="
+        }
+      ]
+    },
+    {
+      "Route": "Upload/harry.jpg",
+      "AssetFile": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\Upload\\harry.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "341084"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jGcpdE0hgbweo1z8tRb9Cv1uf5D85YeVaYFlFW0IJe8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 18:13:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jGcpdE0hgbweo1z8tRb9Cv1uf5D85YeVaYFlFW0IJe8="
+        }
+      ]
+    },
+    {
+      "Route": "Upload/harry.km6o4zse8u.jpg",
+      "AssetFile": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\Upload\\harry.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "341084"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jGcpdE0hgbweo1z8tRb9Cv1uf5D85YeVaYFlFW0IJe8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 18:13:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "km6o4zse8u"
+        },
+        {
+          "Name": "label",
+          "Value": "Upload/harry.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jGcpdE0hgbweo1z8tRb9Cv1uf5D85YeVaYFlFW0IJe8="
+        }
+      ]
+    },
+    {
+      "Route": "Upload/lazarillo.jpg",
+      "AssetFile": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\Upload\\lazarillo.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13999"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QmOlMVfRvUGFMB7ibEFtfIpg0Y13Oz6z6X6YRCXrhCA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 18:13:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QmOlMVfRvUGFMB7ibEFtfIpg0Y13Oz6z6X6YRCXrhCA="
+        }
+      ]
+    },
+    {
+      "Route": "Upload/lazarillo.m260e4m3f9.jpg",
+      "AssetFile": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\Upload\\lazarillo.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13999"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QmOlMVfRvUGFMB7ibEFtfIpg0Y13Oz6z6X6YRCXrhCA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 18:13:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m260e4m3f9"
+        },
+        {
+          "Name": "label",
+          "Value": "Upload/lazarillo.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QmOlMVfRvUGFMB7ibEFtfIpg0Y13Oz6z6X6YRCXrhCA="
+        }
+      ]
+    },
+    {
+      "Route": "Upload/quijote.awt4wwra12.jpg",
+      "AssetFile": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\Upload\\quijote.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38654"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WkDqA77kdxoTUF00rmNWpC7NY8HsJIdXMZaR4Egntgo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 18:13:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "awt4wwra12"
+        },
+        {
+          "Name": "label",
+          "Value": "Upload/quijote.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WkDqA77kdxoTUF00rmNWpC7NY8HsJIdXMZaR4Egntgo="
+        }
+      ]
+    },
+    {
+      "Route": "Upload/quijote.jpg",
+      "AssetFile": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\Upload\\quijote.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38654"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WkDqA77kdxoTUF00rmNWpC7NY8HsJIdXMZaR4Egntgo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 18:13:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WkDqA77kdxoTUF00rmNWpC7NY8HsJIdXMZaR4Egntgo="
+        }
+      ]
+    },
+    {
+      "Route": "Upload/viajera.1bur87cjkd.jpg",
+      "AssetFile": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\Upload\\viajera.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36144"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0ylppaBfS063vhGvh7YXp3SYOITs5tmax4uRA/aVrnE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 18:13:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1bur87cjkd"
+        },
+        {
+          "Name": "label",
+          "Value": "Upload/viajera.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0ylppaBfS063vhGvh7YXp3SYOITs5tmax4uRA/aVrnE="
+        }
+      ]
+    },
+    {
+      "Route": "Upload/viajera.jpg",
+      "AssetFile": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\Upload\\viajera.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36144"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0ylppaBfS063vhGvh7YXp3SYOITs5tmax4uRA/aVrnE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 18:13:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0ylppaBfS063vhGvh7YXp3SYOITs5tmax4uRA/aVrnE="
+        }
+      ]
+    }
+  ]
+}
