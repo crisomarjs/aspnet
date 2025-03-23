@@ -1,6 +1,18 @@
 {
   "Files": [
     {
+      "Id": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\Upload\\38da5b58-9c80-41b2-8fe5-eda9deaf7f85.jpg",
+      "PackagePath": "staticwebassets\\Upload\\38da5b58-9c80-41b2-8fe5-eda9deaf7f85.jpg"
+    },
+    {
+      "Id": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\Upload\\48397dec-aa26-4672-89e7-c1da6befc3da.jpg",
+      "PackagePath": "staticwebassets\\Upload\\48397dec-aa26-4672-89e7-c1da6befc3da.jpg"
+    },
+    {
+      "Id": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\Upload\\7d1c8c99-4ab7-4480-a350-528424dc7644.jpg",
+      "PackagePath": "staticwebassets\\Upload\\7d1c8c99-4ab7-4480-a350-528424dc7644.jpg"
+    },
+    {
       "Id": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\Upload\\catedral.png",
       "PackagePath": "staticwebassets\\Upload\\catedral.png"
     },
@@ -11,6 +23,10 @@
     {
       "Id": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\Upload\\congo.jpg",
       "PackagePath": "staticwebassets\\Upload\\congo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\Upload\\d6975962-a56e-4511-b616-cd1ff70e872c.jpg",
+      "PackagePath": "staticwebassets\\Upload\\d6975962-a56e-4511-b616-cd1ff70e872c.jpg"
     },
     {
       "Id": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\Upload\\guerra.jpg",

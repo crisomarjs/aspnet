@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "a8kWjThb+kJ65H67Yl7pw9s5v0809d3ouFm6TYPrupw=",
+  "Hash": "tOAHdYW1ED1p+QhS81JBm9SiQ2ofSnGuhk3t4L0JQeI=",
   "Source": "AppStore",
   "BasePath": "_content/AppStore",
   "Mode": "Default",
@@ -101,6 +101,69 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
+      "Identity": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\Upload\\38da5b58-9c80-41b2-8fe5-eda9deaf7f85.jpg",
+      "SourceId": "AppStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\",
+      "BasePath": "_content/AppStore",
+      "RelativePath": "Upload/38da5b58-9c80-41b2-8fe5-eda9deaf7f85#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jn7ao49446",
+      "Integrity": "wYLK3Vc28LXke6NkDFpXkRnXUkIkeJxzeZBAPBa6Ezk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Upload\\38da5b58-9c80-41b2-8fe5-eda9deaf7f85.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\Upload\\48397dec-aa26-4672-89e7-c1da6befc3da.jpg",
+      "SourceId": "AppStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\",
+      "BasePath": "_content/AppStore",
+      "RelativePath": "Upload/48397dec-aa26-4672-89e7-c1da6befc3da#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jn7ao49446",
+      "Integrity": "wYLK3Vc28LXke6NkDFpXkRnXUkIkeJxzeZBAPBa6Ezk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Upload\\48397dec-aa26-4672-89e7-c1da6befc3da.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\Upload\\7d1c8c99-4ab7-4480-a350-528424dc7644.jpg",
+      "SourceId": "AppStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\",
+      "BasePath": "_content/AppStore",
+      "RelativePath": "Upload/7d1c8c99-4ab7-4480-a350-528424dc7644#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jn7ao49446",
+      "Integrity": "wYLK3Vc28LXke6NkDFpXkRnXUkIkeJxzeZBAPBa6Ezk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Upload\\7d1c8c99-4ab7-4480-a350-528424dc7644.jpg"
+    },
+    {
       "Identity": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\Upload\\catedral.png",
       "SourceId": "AppStore",
       "SourceType": "Discovered",
@@ -162,6 +225,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Upload\\congo.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\Upload\\d6975962-a56e-4511-b616-cd1ff70e872c.jpg",
+      "SourceId": "AppStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\",
+      "BasePath": "_content/AppStore",
+      "RelativePath": "Upload/d6975962-a56e-4511-b616-cd1ff70e872c#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "iiit0t5h8e",
+      "Integrity": "Btk4RVLvtibtjwugVPaGhex10PS6RdeAXx4ksE0tzcA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Upload\\d6975962-a56e-4511-b616-cd1ff70e872c.jpg"
     },
     {
       "Identity": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\Upload\\guerra.jpg",
@@ -867,6 +951,252 @@
       ]
     },
     {
+      "Route": "Upload/38da5b58-9c80-41b2-8fe5-eda9deaf7f85.jn7ao49446.jpg",
+      "AssetFile": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\Upload\\38da5b58-9c80-41b2-8fe5-eda9deaf7f85.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55517"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wYLK3Vc28LXke6NkDFpXkRnXUkIkeJxzeZBAPBa6Ezk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 19:57:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jn7ao49446"
+        },
+        {
+          "Name": "label",
+          "Value": "Upload/38da5b58-9c80-41b2-8fe5-eda9deaf7f85.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wYLK3Vc28LXke6NkDFpXkRnXUkIkeJxzeZBAPBa6Ezk="
+        }
+      ]
+    },
+    {
+      "Route": "Upload/38da5b58-9c80-41b2-8fe5-eda9deaf7f85.jpg",
+      "AssetFile": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\Upload\\38da5b58-9c80-41b2-8fe5-eda9deaf7f85.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55517"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wYLK3Vc28LXke6NkDFpXkRnXUkIkeJxzeZBAPBa6Ezk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 19:57:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wYLK3Vc28LXke6NkDFpXkRnXUkIkeJxzeZBAPBa6Ezk="
+        }
+      ]
+    },
+    {
+      "Route": "Upload/48397dec-aa26-4672-89e7-c1da6befc3da.jn7ao49446.jpg",
+      "AssetFile": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\Upload\\48397dec-aa26-4672-89e7-c1da6befc3da.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55517"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wYLK3Vc28LXke6NkDFpXkRnXUkIkeJxzeZBAPBa6Ezk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 20:02:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jn7ao49446"
+        },
+        {
+          "Name": "label",
+          "Value": "Upload/48397dec-aa26-4672-89e7-c1da6befc3da.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wYLK3Vc28LXke6NkDFpXkRnXUkIkeJxzeZBAPBa6Ezk="
+        }
+      ]
+    },
+    {
+      "Route": "Upload/48397dec-aa26-4672-89e7-c1da6befc3da.jpg",
+      "AssetFile": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\Upload\\48397dec-aa26-4672-89e7-c1da6befc3da.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55517"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wYLK3Vc28LXke6NkDFpXkRnXUkIkeJxzeZBAPBa6Ezk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 20:02:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wYLK3Vc28LXke6NkDFpXkRnXUkIkeJxzeZBAPBa6Ezk="
+        }
+      ]
+    },
+    {
+      "Route": "Upload/7d1c8c99-4ab7-4480-a350-528424dc7644.jn7ao49446.jpg",
+      "AssetFile": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\Upload\\7d1c8c99-4ab7-4480-a350-528424dc7644.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55517"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wYLK3Vc28LXke6NkDFpXkRnXUkIkeJxzeZBAPBa6Ezk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 19:55:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jn7ao49446"
+        },
+        {
+          "Name": "label",
+          "Value": "Upload/7d1c8c99-4ab7-4480-a350-528424dc7644.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wYLK3Vc28LXke6NkDFpXkRnXUkIkeJxzeZBAPBa6Ezk="
+        }
+      ]
+    },
+    {
+      "Route": "Upload/7d1c8c99-4ab7-4480-a350-528424dc7644.jpg",
+      "AssetFile": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\Upload\\7d1c8c99-4ab7-4480-a350-528424dc7644.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55517"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wYLK3Vc28LXke6NkDFpXkRnXUkIkeJxzeZBAPBa6Ezk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 19:55:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wYLK3Vc28LXke6NkDFpXkRnXUkIkeJxzeZBAPBa6Ezk="
+        }
+      ]
+    },
+    {
       "Route": "Upload/catedral.hwya7ynymm.png",
       "AssetFile": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\Upload\\catedral.png",
       "Selectors": [],
@@ -1109,6 +1439,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-sc3uak/Hgs9Yi94yHGoxbEETvEwjaKMTS0diV+Es3h0="
+        }
+      ]
+    },
+    {
+      "Route": "Upload/d6975962-a56e-4511-b616-cd1ff70e872c.iiit0t5h8e.jpg",
+      "AssetFile": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\Upload\\d6975962-a56e-4511-b616-cd1ff70e872c.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21341"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Btk4RVLvtibtjwugVPaGhex10PS6RdeAXx4ksE0tzcA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 20:36:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iiit0t5h8e"
+        },
+        {
+          "Name": "label",
+          "Value": "Upload/d6975962-a56e-4511-b616-cd1ff70e872c.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Btk4RVLvtibtjwugVPaGhex10PS6RdeAXx4ksE0tzcA="
+        }
+      ]
+    },
+    {
+      "Route": "Upload/d6975962-a56e-4511-b616-cd1ff70e872c.jpg",
+      "AssetFile": "C:\\Users\\crist\\OneDrive\\Escritorio\\aspnet\\src\\AppStore\\wwwroot\\Upload\\d6975962-a56e-4511-b616-cd1ff70e872c.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21341"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Btk4RVLvtibtjwugVPaGhex10PS6RdeAXx4ksE0tzcA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 20:36:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Btk4RVLvtibtjwugVPaGhex10PS6RdeAXx4ksE0tzcA="
         }
       ]
     },

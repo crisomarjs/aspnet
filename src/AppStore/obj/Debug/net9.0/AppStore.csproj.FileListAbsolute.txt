@@ -159,3 +159,4 @@ C:\Users\crist\OneDrive\Escritorio\aspnet\src\AppStore\bin\Debug\net9.0\runtimes
 C:\Users\crist\OneDrive\Escritorio\aspnet\src\AppStore\obj\Debug\net9.0\AppStore.csproj.AssemblyReference.cache
 C:\Users\crist\OneDrive\Escritorio\aspnet\src\AppStore\obj\Debug\net9.0\AppStore.csproj.Up2Date
 C:\Users\crist\OneDrive\Escritorio\aspnet\src\AppStore\obj\Debug\net9.0\compressed\wio8f2g8rw-hb2h69dw86.gz
+C:\Users\crist\OneDrive\Escritorio\aspnet\src\AppStore\obj\Debug\net9.0\AppStore.sourcelink.json
